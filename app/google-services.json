@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090362781372",
+    "project_id": "quiz-time-615ba",
+    "storage_bucket": "quiz-time-615ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090362781372:android:826acfd044cab7c8376ab9",
+        "android_client_info": {
+          "package_name": "com.example.quiztime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv2MFQMPextPkRqE92RzWAKs0ObFlrsg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
